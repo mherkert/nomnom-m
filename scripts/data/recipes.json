@@ -1,0 +1,171 @@
+[
+    {
+        "title": "Röstkartoffelsalat",
+        "ingredients": [
+            {
+                "items": [
+                    "300 g Kartoffelwürfel ca. 2 cm Kantenlänge, möglichst exakt geschnitten (Neue Kartoffeln)",
+                    "1 EL Speckfett (ausgelassenes Fett; alternativ: Butterschmalz)",
+                    "1 Prise Salz und Pfeffer aus der Mühle",
+                    "100 ml Geflügelfond",
+                    "1 Salatgurke",
+                    "etc."
+                ]
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Kartoffelwürfel so exakt wie möglich zuschneiden. Fett in beschichteter Pfanne stark erhitzen, Kartoffeln zugeben, kurz durchschütteln und Hitze auf mittlere Stufe reduzieren. Langsam bei stetigem Wenden/Werfen goldgelb braten. Hitze auf die maximale Stufe erhöhen, Fond zugeben und rühren, bis der Fond komplett verdunstet ist. Sofort in Schüssel umfüllen und mit der aus den restlichen Zutaten (außer Gurke) angerührten Vinaigrette übergießen. In dem Dressing auskühlen lassen. Gurke waschen, nicht schälen. Längs halbieren und Kerne auskratzen. Rest in kleine Würfel schneiden und unter den Salat heben."
+            }
+        ],
+        "cookbook": "cookbookId",
+        "owner": "5944212ecca1a18d42196568",
+        "meta": {
+            "color": "yellow",
+            "locale": "de_DE"
+        }
+    },
+    {
+        "title": "Carrot Cake",
+        "ingredients": [
+            {
+                "items": [
+                    "250ml Corn Oil",
+                    "175g Sugar",
+                    "3 Eggs",
+                    "175g Plain Flour",
+                    "etc."
+                ]
+            },
+            {
+                "title": "For the Frosting",
+                "items": [
+                    "175g Full Fat Cream Cheese",
+                    "25g Butter",
+                    "225g Icing Sugar"
+                ]
+            }
+        ],
+        "instructions": [
+            {
+                "text": "1.       Preheat the oven to 180oC/160Oc for fan oven. Grease two 20cm round cake tins and line with baking parchment.\n2.       Put the corn oil and sugar into a bowl and beat well. Add the eggs one at a time and beat them thoroughly into the mixture.\n3.       Sift the flour, baking powder, bicarb, salt, cinnamon, nutmeg and ginger into the bowl and beat well. Fold in the walnuts and carrots and stir in the vanilla essence and sour cream.\n4.       Divide the mixture between the prepared tins and bake in the centre of the oven for about 1 hour or until a skewer comes out lean from the cake.\n5.       Leave the cake in the tins for 5 mins then turn out to cool on a wire rack.\n6.       For the frosting mix the soft cheese, butter and icing sugar together in a bowl. Beat until smooth\n7.       Sandwich the cooled cakes together with a little of the frosting. Spread remaining frosting over the top of the cake and down the sides."
+            }
+        ],
+        "cookbook": "cookbookId",
+        "owner": "5944212ecca1a18d42196568",
+        "meta": {
+            "color": "yellow",
+            "locale": "en_GB"
+        }
+    },
+    {
+        "title": "Thai chicken and sweet potato soup",
+        "ingredients": [
+            {
+                "items": [
+                    "1 tsp olive or rapeseed oil",
+                    "2 garlic clove, chopped",
+                    "1 red chilli, deseeded and chopped",
+                    "2cm chunk root ginger, chopped",
+                    "etc."
+                ]
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Heat the oil in a large saucepan. Add the garlic, chilli, ginger, lemongrass, coriander stalks and curry paste and cook for 2 - 3 minutes until the aromas are released.\n\nAdd the chicken stock, coconut cream and sweet potatoes and cook for 15 minutes or until the potatoes are soft. Remove the lemongrass and discard. Carefully transfer to a blender and blitz until smooth. If freezing, for best results freeze at this point, otherwise as an easier option freeze complete recipe.\n\nReturn to the saucepan, add the chicken and cook gently for 5 - 10 minutes or until the chicken is cooked through. Stir through the lime juice, sugar and fish sauce, scatter with the coriander leaves and serve."
+            }
+        ],
+        "cookbook": "cookbookId",
+        "owner": "5944212ecca1a18d42196568",
+        "meta": {
+            "color": "yellow",
+            "locale": "en_GB"
+        }
+    },
+    {
+        "title": "Lentil and Tomato Salad",
+        "ingredients": [
+            {
+                "items": [
+                    "250g dried Puy or green lentil, rinsed",
+                    "juice ½ lime",
+                    "juice ½ lemon",
+                    "1 tbsp white wine or cider vinegar",
+                    "1 red onion, thinly sliced into rings",
+                    "etc."
+                ]
+            }
+        ],
+        "instructions": [
+            {
+                "text": "1 Boil the lentils following pack instructions, drain, rinse well, then drain thoroughly.\n\n2 Meanwhile, mix the citrus juices, vinegar and a pinch of salt in a salad bowl, then toss in the onion rings – after a few mins they will soften and turn pink. Whisk together the oil, cumin, garlic and chutney, then toss into the onions with the cooled lentils, coriander, tomatoes, spinach and plenty of seasoning."
+            }
+        ],
+        "cookbook": "cookbookId",
+        "owner": "5944212ecca1a18d42196568",
+        "meta": {
+            "color": "yellow",
+            "locale": "en_GB"
+        }
+    },
+    {
+        "title": "Marinierte Aubergine",
+        "ingredients": [
+            {
+                "title": "Zutaten",
+                "items": [
+                    "3 große Auberginen",
+                    "3 EL Olivenöl",
+                    "1 TL grobkörniges Salz",
+                    "1 TL frisch gemahlener"
+                ]
+            },
+            {
+                "title": "Marinade",
+                "items": [
+                    "2 EL Olivenöl",
+                    "1 EL Honig",
+                    "3 EL roter Weinessig",
+                    "1 Handvoll gehackte frische Petersilie"
+                ]
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Den Backofen auf 220 °C vorheizen. Ein Bratblech mit Backpapier auslegen. Die Auberginen in 1 cm dicke Scheiben schneiden und auf dem vorbereiteten Blech auslegen. Olivenöl über die Auberginenscheiben träufeln und Auberginen mit Salz und Pfeffer würzen. 20 bis 25 Minuten rösten, bis die Auberginen weich und goldbraun sind. Inzwischen alle Zutaten der Marinade gründlich vermischen. Die Auberginen in einem tiefen Teller anrichten. Die Marinade darübergeben, den Teller abdecken und für mindestens 2 Stunden, idealerweise aber 6 Stunden marinieren. In eine Servierschüssel umfüllen, nach Belieben mit zusätzlicher Petersilie bestreuen und servieren."
+            }
+        ],
+        "cookbook": "cookbookId",
+        "owner": "5944212ecca1a18d42196568",
+        "meta": {
+            "color": "yellow",
+            "locale": "de_DE"
+        }
+    },
+    {
+        "title": "Salmon Marinade",
+        "ingredients": [
+            {
+                "items": [
+                    "4 salmon fillets or 4 salmon steaks",
+                    "1⁄4 cup olive oil",
+                    "3 tablespoons soy sauce",
+                    "2 scallions, chopped (2 green onions)",
+                    "etc."
+                ]
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Mix oil, soy sauce, scallions, garlic, and ginger to make a marinade, pour over salmon and marinate for 1 hour in the refrigerator. (no longer than an hour or the salt in the soy will begin to cook the meat).\nGrill, bake or grill salmon for about 4 minutes per side (when salmon flakes when pierced with a fork).\n**** (for a smokier flavor, add a couple splashes of liquid smoke to marinade -or- soak cedar planks in water for a few hours and grill the salmon on the cedar on the bbq). FABULOUS FAMILY FAVORITE (KIDS TOO). ****."
+            }
+        ],
+        "cookbook": "cookbookId",
+        "owner": "5944212ecca1a18d42196568",
+        "meta": {
+            "color": "yellow",
+            "locale": "en_GB"
+        }
+    }
+]

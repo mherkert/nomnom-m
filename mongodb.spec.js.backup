@@ -1,0 +1,71 @@
+var assert = require('assert');
+var cookbookSchema = require('./cookbook');
+var recipeSchema = require('./recipe');
+var userSchema = require('./user');
+// var fs = require('fs');
+var mongoose = require('mongoose');
+
+
+describe('Database Tests', function () {
+
+    var Cookbook = mongoose.model('Cookbook', cookbookSchema);
+    var Recipe = mongoose.model('Recipe', recipeSchema);
+    var User = mongoose.model('User', userSchema);
+
+
+    var user = new User({
+        profile: {username: 'horst', picture: 'http://www.pictures.com/horst.png'},
+        data: {oauth: 'oauthkey'}
+    });
+    var cookbook = new Cookbook({_id: 'My favourite recipes', description: 'Everything I love.', owner: 'horst'});
+
+    before(function (done) {
+        mongoose.connect('mongodb://localhost/nomnom_test');
+        var db = mongoose.connection;
+        db.on('error', console.error.bind(console, 'Database connection error!'));
+        db.once('open', function () {
+            console.log('Database connection successful!');
+            done();
+        });
+    });
+
+    describe('Database Lifecycle Test', function () {
+        it('saves and retrieves user "horst"', function (done) {
+            user.save();
+            // console.log('maybe saved one');
+            User.findOne({'profile.username': 'horst'}, function (err, user) {
+                assert.ifError(err);
+                // assert.equals();
+                console.log('found one: ' + user);
+                console.log('oauthkey: ' + user.data.oauth);
+                assert.equal(user.profile.username, 'host');
+                console.log('after username equals');
+                assert.equal(user.profile.picture, 'http://www.picures.com/horst.png');
+                console.log('after picture equals');
+                assert.equal(user.data.oauth, 'oauthky');
+                assert.equal('a', 'b');
+                done();
+            });
+        });
+
+        it('saves cookbook for user "horst"', function (done) {
+            // user.save();
+            // User.findOne({
+            //     profile: {username: 'horst'}, function(err, user){
+            //         assert.ifError(err);
+            //         assert.equal(user.profile.username, 'horst');
+            //         assert.equal(user.profile.picture, 'http://www.pictures.com/horst.png');
+            //         assert.equal(user.data.oauth, 'oauthkey');
+            //     }
+            // });
+            done();
+        });
+    });
+
+    after(function (done) {
+        mongoose.connection.db.dropDatabase(function () {
+            mongoose.connection.close(done);
+        });
+    });
+
+});
